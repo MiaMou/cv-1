@@ -28,7 +28,7 @@ let string = `/* 你好，我叫Mia
 #div1 {
     background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 50%, rgba(0,0,0,1) 100%);
 }
-/* 加两个神秘的小球 */
+/* 加两个风火轮 */
 #div1::before {
     width: 100px;
     height: 100px;
